@@ -1,0 +1,91 @@
+---
+layout: default
+modal-id: 7
+date: 2019-03-17
+img: p1.jpg
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+
+---
+
+
+![](/img/p1/IMG_6563.JPG)
+
+对于旅行
+
+ 我有我自己的看法
+
+旅行
+
+从一开始就是我人生的一个梦想 
+
+因为我的梦想是要环游世界
+
+![](/img/p1/IMG_8471.JPG)
+
+旅途中 
+
+我会因为好奇而变得谦逊 
+
+澄净 急躁 伤心或快乐 
+
+这也是为什么我热爱旅行的原因之一
+
+![](/img/p1/IMG_8266.JPG)
+
+很多人都会问 
+
+旅行的意义到底是什么？
+
+![](/img/p1/IMG_9239.JPG)
+
+> 陶立夏说：旅行的意义就在于，
+> 它允许我错误的理解生活，
+> 在这种生活里，
+> 我们都是毋需承担的过客，
+> 是心情轻松的旁观者，
+> 是满心期待的异乡人。
+
+![](/img/p1/IMG_1582.JPG)
+
+> 安徒生说：旅行对我来说，
+> 是恢复青春活力的源泉。
+
+![](/img/p1/IMG_9018.JPG)
+
+> 培根说：对青年人来说，
+> 旅行是教育的一部分；
+> 对老年人来说，
+> 旅行是阅历的一部分。
+
+![](/img/p1/IMG_2379.jpg)
+
+或许他们说的都对 
+也或许他们说的都是错的
+
+旅行的意义在于旅行的人
+
+![](/img/p1/IMG_6502.JPG)
+
+对于我来说
+
+旅行让我开心 
+
+它拓宽了我的视野 开阔了我的眼界 
+
+“读万卷书 不如行万里路”
+
+在我这里他是很有道理的  
+
+踏过万水千山 
+
+世界那么大 我何必屈身于一处 
+
+so 趁我年少 多走走 多看看 
+
+总会发现更多精彩瞬间
+
+![](/img/p1/IMG_1848.JPG)
